@@ -51,7 +51,9 @@ React • TypeScript • Django • PostgreSQL • Tailwind
 ## 📬 Contact
 
 🌐 https://sharmagobinda.com.np
+
 🌐 https://portfolio2.sharmagobinda.com.np
+
 📧 bishalladhikari22@gmail.com
 ---
 
